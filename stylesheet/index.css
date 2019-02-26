@@ -28,3 +28,12 @@ html {
     padding-top: 320px;
     padding-right: 425px;
 }
+
+.paragraph {
+    background-image: url(../doughnuts.jpg);
+    background-size: cover;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    
+}
+
